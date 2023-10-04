@@ -9,3 +9,6 @@ This page serves as a small personal archive and allows me to organise things.
 
 [Şeytani](https://github.com/snoazll/Seytani), a dark fantasy story split into four novellas. Xinmao, the first part, was published in 2021. 
 * Xinmao is available at [Amazon](https://www.amazon.com/dp/B09QBGL834) (English), and [Kobo](https://www.kobo.com/tr/tr/ebook/xinmao) (Turkish).
+
+#### Links
+[Threads](https://www.threads.net/@snoazll)
